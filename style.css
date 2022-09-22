@@ -116,7 +116,7 @@ ul.styled li{
     height: 340px;
     background-color: #1e1b1a;
     padding-top: 25px;
-    padding-left: 23.8px;
+    padding-left: 23px;
     clear: both;
 }
 #footer h2{
@@ -161,8 +161,7 @@ ul.styled li{
     height: 150px;
     text-align: center;
     background-color: #16a085;
-    padding-top: 65px;
-    clear: both;
+    padding-top: 55px;
     bottom: 0;
 }
 #copyright p{
