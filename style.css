@@ -157,12 +157,13 @@ ul.styled li{
 }
 /*******************coyright***********************/
 #copyright{
-    width: 103%;
+    width: 100%;
     height: 150px;
     text-align: center;
     background-color: #16a085;
     padding-top: 65px;
     bottom: 0;
+    padding-left: 25px;
 }
 #copyright p{
     font-size: 12px;
