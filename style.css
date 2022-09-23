@@ -116,7 +116,7 @@ ul.styled li{
     height: 340px;
     background-color: #1e1b1a;
     padding-top: 25px;
-    padding-left: 24px;
+    padding-left: 23.8px;
     clear: both;
 }
 #footer h2{
@@ -157,11 +157,11 @@ ul.styled li{
 }
 /*******************coyright***********************/
 #copyright{
-    width: 102%;
+    width: 103%;
     height: 150px;
     text-align: center;
     background-color: #16a085;
-    padding-top: 55px;
+    padding-top: 65px;
     bottom: 0;
 }
 #copyright p{
